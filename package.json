@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.69.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adiig7/HTML-Snippets"
+    },
     "categories": [
         "Snippets"
     ],
