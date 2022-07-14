@@ -1,0 +1,15 @@
+{
+    "Basic HTML Table": {
+        "prefix": "tb",
+        "body": [
+            "<table>",
+            "<tr>",
+            "<td>Item 1</td>",
+            "<td>Item 2</td>",
+            "<td>Item 3</td>",
+            "</tr>",
+            "</table>"
+        ], 
+        "description": "Basic HTML table"
+    }
+}
